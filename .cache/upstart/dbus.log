@@ -1,0 +1,79 @@
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/eswecha/.cache/oneconf/6f1052845bc975c276a90b985b72a1dd/other_hosts'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+
+** (zeitgeist-fts:2597): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (zeitgeist-fts:2597): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+
+** (zeitgeist-fts:2597): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Activating service name='org.a11y.Bus'
+Failed to activate service 'org.a11y.Bus': timed out
+
+** (zeitgeist-fts:2597): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Activating service name='org.a11y.Bus'
+Activating service name='org.freedesktop.PackageKit'
+INFO:Starting service
+Successfully activated service 'org.freedesktop.PackageKit'
+
+** (zeitgeist-fts:2597): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+DEBUG:Checking for inactivity (30s)
+DEBUG:Checking for inactivity (60s)
+DEBUG:Checking for inactivity (90s)
+Failed to activate service 'org.a11y.Bus': timed out
+DEBUG:Checking for inactivity (120s)
+DEBUG:Checking for inactivity (150s)
+DEBUG:Checking for inactivity (180s)
+INFO:Shutting down because of inactivity
+
+** (zeitgeist-fts:2597): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Activating service name='org.freedesktop.PackageKit'
+INFO:Starting service
+Successfully activated service 'org.freedesktop.PackageKit'
+Activating service name='org.a11y.Bus'
+DEBUG:Checking for inactivity (30s)
+DEBUG:Checking for inactivity (60s)
+DEBUG:Checking for inactivity (90s)
+
+** (zeitgeist-fts:2597): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+DEBUG:Checking for inactivity (120s)
+Failed to activate service 'org.a11y.Bus': timed out
+DEBUG:Checking for inactivity (150s)
+DEBUG:Checking for inactivity (180s)
+INFO:Shutting down because of inactivity
+module-cache-reaper-Message: Reaping abandoned data directories
+module-cache-reaper-Message: Reaping abandoned cache directories
+
+** (zeitgeist-datahub:2598): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/eswecha/Downloads/.org.chromium.Chromium.tyLzGv: Error when getting information for file '/home/eswecha/Downloads/.org.chromium.Chromium.tyLzGv': No such file or directory
+
+** (zeitgeist-datahub:2598): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:2598): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/eswecha/Downloads/.org.chromium.Chromium.0NEPGt: Error when getting information for file '/home/eswecha/Downloads/.org.chromium.Chromium.0NEPGt': No such file or directory
+
+** (zeitgeist-datahub:2598): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/eswecha/Downloads/.org.chromium.Chromium.37cjmn: Error when getting information for file '/home/eswecha/Downloads/.org.chromium.Chromium.37cjmn': No such file or directory
+
+** (zeitgeist-datahub:2598): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:2598): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:2598): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+Activating service name='org.freedesktop.PackageKit'
+INFO:Starting service
+Successfully activated service 'org.freedesktop.PackageKit'
+DEBUG:Checking for inactivity (29s)
+DEBUG:Checking for inactivity (59s)
+DEBUG:Checking for inactivity (89s)
+DEBUG:Checking for inactivity (119s)
+DEBUG:Checking for inactivity (149s)
+DEBUG:Checking for inactivity (179s)
+DEBUG:Checking for inactivity (209s)
+INFO:Shutting down because of inactivity
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/eswecha/.cache/oneconf/6f1052845bc975c276a90b985b72a1dd/other_hosts'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'

@@ -1,0 +1,10 @@
+
+(unity-panel-service:2184): Indicator-Appmenu-WARNING **: Already have a menu for window ID 65011913 with path /com/canonical/menu/3E000C9 from :1.102, unregistering that one
+
+(unity-panel-service:2184): Indicator-Appmenu-WARNING **: Already have a menu for window ID 77594825 with path /com/canonical/menu/4A000C9 from :1.108, unregistering that one
+
+(unity-panel-service:2184): Indicator-Appmenu-WARNING **: Already have a menu for window ID 77594825 with path /com/canonical/menu/4A000C9 from :1.108, unregistering that one
+
+(unity-panel-service:2184): Indicator-Appmenu-WARNING **: Already have a menu for window ID 65011913 with path /com/canonical/menu/3E000C9 from :1.115, unregistering that one
+
+(unity-panel-service:2184): Indicator-Appmenu-WARNING **: Already have a menu for window ID 77594825 with path /com/canonical/menu/4A000C9 from :1.125, unregistering that one

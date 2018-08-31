@@ -1,0 +1,419 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title> OpenCSW Solaris packages</title>
+
+<link rel="stylesheet" href="https://www.opencsw.org/wp-content/themes/opencsw/style.css" type="text/css" media="all" />
+<!--[if IE 6]>
+<link rel="stylesheet" href="https://www.opencsw.org/wp-content/themes/opencsw/ie6.css" type="text/css" />
+<![endif]-->
+
+<meta name="robots" content="index,follow" />
+<link rel="alternate" type="application/rss+xml" title="OpenCSW Solaris packages RSS Feed" href="https://www.opencsw.org/feed/" />
+<link rel="alternate" type="application/atom+xml" title="OpenCSW Solaris packages Atom Feed" href="https://www.opencsw.org/feed/atom/" />
+<link rel="pingback" href="https://www.opencsw.org/xmlrpc.php" />
+<link rel="shortcut icon" href="https://www.opencsw.org/wp-content/themes/opencsw/favicon.ico" type="image/x-icon" />
+
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.opencsw.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='https://api.w.org/' href='https://www.opencsw.org/wp-json/' />
+</head>
+<body id="home">
+
+
+<div id="header" class="clearfix">
+
+    <div id="branding">
+        <h1 id="logo"><a href="http://www.opencsw.org/" title="OpenCSW Solaris packages">OpenCSW Solaris packages</a></h1>
+        <div class="description">
+          Community Software for Solaris                </div>
+    </div>
+    
+    <div id="nav" class="clearfix">
+        <div id="nav-search">
+            <!-- the search box doesn't do what people expect it to
+            <form role="search" method="get" id="searchform" class="searchform" action="https://www.opencsw.org/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>            -->
+        </div>
+        <ul id="menu">
+          <li class="page-item-home  current_page_item "><a href="http://www.opencsw.org/">Home</a></li>
+          <li class="page_item page-item-1207"><a href="https://www.opencsw.org/security/">Security</a></li><li class="page_item page-item-212 page_item_has_children"><a href="https://www.opencsw.org/about/">About</a></li><li class="page_item page-item-139 page_item_has_children"><a href="https://www.opencsw.org/get-it/">Download</a></li><li class="page_item page-item-141 page_item_has_children"><a href="https://www.opencsw.org/use-it/">Documentation</a></li><li class="page_item page-item-142 page_item_has_children"><a href="https://www.opencsw.org/support/">Support</a></li><li class="page_item page-item-143 page_item_has_children"><a href="https://www.opencsw.org/extend-it/">Contribute</a></li>        </ul>
+    <div id="submenu-bg">    
+          </div>
+  </div>
+</div>
+
+
+<div id="main" class="clearfix">
+
+
+	<div id="container">
+		<div id="content">
+
+		<br />
+
+		
+						<!--
+		<div class="navigation clearfix">
+			<div class="alignleft"><a href="https://www.opencsw.org/page/2/" >&laquo; Older Entries</a></div>
+			<div class="alignright"></div>
+		</div>
+-->
+		
+		<div class="post-1555 post type-post status-publish format-standard hentry category-news">
+			<h1 id="post-1555"><a href="https://www.opencsw.org/2015/12/php-5-6-15-released/" rel="bookmark" title="Permanent Link to PHP 5.6.15 released">PHP 5.6.15 released</a></h1>
+			<small class="meta">December 1st, 2015 </small>
+
+			<div class="entry">
+				<p>We are glad to announce the release of PHP 5.6 to unstable. This replaces the PHP 5.3 packages. It contains also php5_module for Apache2.4 (ap24_modphp5).</p>
+			</div>
+<!--
+			<div class="postmetadata clearfix">
+				<p class="commentslink alignright">
+				//<span>Comments Off<span class="screen-reader-text"> on PHP 5.6.15 released</span></span> &#187;
+				</p>
+				<p class="categories">
+				//Posted in <a href="https://www.opencsw.org/category/news/" rel="category tag">News</a>				</p>
+				//			</div>
+-->
+		</div>
+
+		
+		<div class="post-1547 post type-post status-publish format-standard hentry category-news">
+			<h1 id="post-1547"><a href="https://www.opencsw.org/2015/08/primary-mirror-will-be-down-for-the-day/" rel="bookmark" title="Permanent Link to Primary mirror will be down for the day">Primary mirror will be down for the day</a></h1>
+			<small class="meta">August 31st, 2015 </small>
+
+			<div class="entry">
+				<p>Dear users, our primary mirror http://mirror.opencsw.org will be down for today due to hardware migration of our provider. In the meantime you can use the direct catalog from the <a href="http://buildfarm.opencsw.org/opencsw/official/">buildfarm</a>, although it has a slower internet connection as the primary mirror.</p>
+<p>Sorry for the inconvenience &#8212; Dago</p>
+			</div>
+<!--
+			<div class="postmetadata clearfix">
+				<p class="commentslink alignright">
+				//<span>Comments Off<span class="screen-reader-text"> on Primary mirror will be down for the day</span></span> &#187;
+				</p>
+				<p class="categories">
+				//Posted in <a href="https://www.opencsw.org/category/news/" rel="category tag">News</a>				</p>
+				//			</div>
+-->
+		</div>
+
+		
+		<div class="post-1537 post type-post status-publish format-standard hentry category-news">
+			<h1 id="post-1537"><a href="https://www.opencsw.org/2015/06/apache-2-4-12-3264bit-available/" rel="bookmark" title="Permanent Link to Apache 2.4.12 32/64bit available">Apache 2.4.12 32/64bit available</a></h1>
+			<small class="meta">June 24th, 2015 </small>
+
+			<div class="entry">
+				<p>Apache 2.4.12 is pushed to unstable. This is the first apache package which contains also 64bit binaries. To activate the 64bit version run:</p>
+<p><code># svccfg -s cswapache24 'setprop general/enable_64bit = true'</code></p>
+			</div>
+<!--
+			<div class="postmetadata clearfix">
+				<p class="commentslink alignright">
+				//<span>Comments Off<span class="screen-reader-text"> on Apache 2.4.12 32/64bit available</span></span> &#187;
+				</p>
+				<p class="categories">
+				//Posted in <a href="https://www.opencsw.org/category/news/" rel="category tag">News</a>				</p>
+				//			</div>
+-->
+		</div>
+
+		
+		<div class="post-1516 post type-post status-publish format-standard hentry category-news">
+			<h1 id="post-1516"><a href="https://www.opencsw.org/2015/03/wget-1-16-2/" rel="bookmark" title="Permanent Link to wget 1.16.2">wget 1.16.2</a></h1>
+			<small class="meta">March 1st, 2015 </small>
+
+			<div class="entry">
+				<p>Finally wget 1.16.2 has been released yesterday and I just pushed 1.16.2,REV=2015.03.01 to unstable/. This fixes CVE-2014-4877 (Absolute path traversal vulnerability).</p>
+			</div>
+<!--
+			<div class="postmetadata clearfix">
+				<p class="commentslink alignright">
+				//<span>Comments Off<span class="screen-reader-text"> on wget 1.16.2</span></span> &#187;
+				</p>
+				<p class="categories">
+				//Posted in <a href="https://www.opencsw.org/category/news/" rel="category tag">News</a>				</p>
+				//			</div>
+-->
+		</div>
+
+		
+		<div class="post-1509 post type-post status-publish format-standard hentry category-announcements">
+			<h1 id="post-1509"><a href="https://www.opencsw.org/2015/01/no-progress-on-the-ips-repository/" rel="bookmark" title="Permanent Link to No progress on the IPS repository">No progress on the IPS repository</a></h1>
+			<small class="meta">January 11th, 2015 </small>
+
+			<div class="entry">
+				<p>In 2012, we wrote about <a href="http://www.opencsw.org/2012/02/ips-repository-in-the-works/">the IPS repository being in the works</a>. Unfortunately, we have done no progress on it. We&#8217;ve talked about IPS many times, and while people agree it&#8217;s a great idea to have an IPS repository, they are unable to devote time to it.</p>
+<p>What&#8217;s needed for the IPS repo to happen? It is unlikely that any of the existing package maintainers pick this up. Somebody new needs to step up.</p>
+<p>The closest existing thing is <a href="http://sfe.opencsw.org/">sfe.opencsw.org</a> which is hosted in our domain, but it&#8217;s an entirely separate effort which shares no code with OpenCSW.</p>
+			</div>
+<!--
+			<div class="postmetadata clearfix">
+				<p class="commentslink alignright">
+				//<span>Comments Off<span class="screen-reader-text"> on No progress on the IPS repository</span></span> &#187;
+				</p>
+				<p class="categories">
+				//Posted in <a href="https://www.opencsw.org/category/announcements/" rel="category tag">Announcements</a>				</p>
+				//			</div>
+-->
+		</div>
+
+		
+		<div class="post-1506 post type-post status-publish format-standard hentry category-announcements">
+			<h1 id="post-1506"><a href="https://www.opencsw.org/2014/12/minimum-libc-version-is-1-22-5/" rel="bookmark" title="Permanent Link to Minimum libc version is 1.22.5">Minimum libc version is 1.22.5</a></h1>
+			<small class="meta">December 14th, 2014 </small>
+
+			<div class="entry">
+				<p>On Solaris 10, the minimum libc version for OpenCSW packages is 1.22.5. You can check it with:</p>
+<p>pvs -no /usr/lib/libc.so</p>
+<p>If your libc version is older than that, you need to patch / upgrade your Solaris installation before upgrading OpenCSW packages.</p>
+<p>libc version 1.22.5 has been <a href="https://github.com/illumos/illumos-gate/blob/20afa66e72e7c210ef1f9053d4bc8f5b60d1eeed/usr/src/lib/libc/port/mapfile-vers#L455">introduced in Solaris 10 update 8</a>.</p>
+			</div>
+<!--
+			<div class="postmetadata clearfix">
+				<p class="commentslink alignright">
+				//<span>Comments Off<span class="screen-reader-text"> on Minimum libc version is 1.22.5</span></span> &#187;
+				</p>
+				<p class="categories">
+				//Posted in <a href="https://www.opencsw.org/category/announcements/" rel="category tag">Announcements</a>				</p>
+				//			</div>
+-->
+		</div>
+
+		
+		<div class="post-1503 post type-post status-publish format-standard hentry category-news">
+			<h1 id="post-1503"><a href="https://www.opencsw.org/2014/11/gcc-4-9-2-released/" rel="bookmark" title="Permanent Link to GCC 4.9.2 released">GCC 4.9.2 released</a></h1>
+			<small class="meta">November 25th, 2014 </small>
+
+			<div class="entry">
+				<p>We are glad to announce the release of GCC 4.9.2 to unstable. Happy compiling!</p>
+			</div>
+<!--
+			<div class="postmetadata clearfix">
+				<p class="commentslink alignright">
+				//<span>Comments Off<span class="screen-reader-text"> on GCC 4.9.2 released</span></span> &#187;
+				</p>
+				<p class="categories">
+				//Posted in <a href="https://www.opencsw.org/category/news/" rel="category tag">News</a>				</p>
+				//			</div>
+-->
+		</div>
+
+		
+		<div class="post-1496 post type-post status-publish format-standard hentry category-announcements">
+			<h1 id="post-1496"><a href="https://www.opencsw.org/2014/09/new-stable-release-bratislava/" rel="bookmark" title="Permanent Link to New stable release: bratislava">New stable release: bratislava</a></h1>
+			<small class="meta">September 29th, 2014 </small>
+
+			<div class="entry">
+				<p>Six months have passed since we&#8217;ve promoted &#8216;kiel&#8217; to stable. It&#8217;s time for a new release. We&#8217;ve promoted the testing catalog &#8216;bratislava&#8217; to stable, and created a new &#8216;munich&#8217; catalog which has become the new testing.</p>
+<p>The new stable catalog contains the patched CSWbash package.</p>
+<p><a href="http://lists.opencsw.org/pipermail/users/2014-September/009867.html"><em>original announcement</em></a></p>
+			</div>
+<!--
+			<div class="postmetadata clearfix">
+				<p class="commentslink alignright">
+				//<span>Comments Off<span class="screen-reader-text"> on New stable release: bratislava</span></span> &#187;
+				</p>
+				<p class="categories">
+				//Posted in <a href="https://www.opencsw.org/category/announcements/" rel="category tag">Announcements</a>				</p>
+				//			</div>
+-->
+		</div>
+
+		
+		<div class="post-1489 post type-post status-publish format-standard hentry category-recent-updates">
+			<h1 id="post-1489"><a href="https://www.opencsw.org/2014/08/yet-another-openssl-security-update/" rel="bookmark" title="Permanent Link to Yet another OpenSSL security update">Yet another OpenSSL security update</a></h1>
+			<small class="meta">August 10th, 2014 </small>
+
+			<div class="entry">
+				<p>Versions 0.9.8zb and 1.0.1i have landed in the unstable catalog. Thanks, Yann!</p>
+			</div>
+<!--
+			<div class="postmetadata clearfix">
+				<p class="commentslink alignright">
+				//<span>Comments Off<span class="screen-reader-text"> on Yet another OpenSSL security update</span></span> &#187;
+				</p>
+				<p class="categories">
+				//Posted in <a href="https://www.opencsw.org/category/recent-updates/" rel="category tag">Recent updates</a>				</p>
+				//			</div>
+-->
+		</div>
+
+		
+		<div class="post-1483 post type-post status-publish format-standard hentry category-announcements">
+			<h1 id="post-1483"><a href="https://www.opencsw.org/2014/06/new-openssl-security-update/" rel="bookmark" title="Permanent Link to New OpenSSL security update">New OpenSSL security update</a></h1>
+			<small class="meta">June 10th, 2014 </small>
+
+			<div class="entry">
+				<p>After the horrible heartbleed blug, a new set of security vulnerabilities was recently found in OpenSSL and publicly disclosed on June, 5th. Although not as serious as heartbleed, one of these new vulnerabilities allows an attacker to perform a man-in-the-middle attack, so you are strongly advised to update to openssl 1.0.1h,REV=2014.06.06, which was released in unstable, kiel and bratislava repositories on June, 6th.</p>
+			</div>
+<!--
+			<div class="postmetadata clearfix">
+				<p class="commentslink alignright">
+				//<span>Comments Off<span class="screen-reader-text"> on New OpenSSL security update</span></span> &#187;
+				</p>
+				<p class="categories">
+				//Posted in <a href="https://www.opencsw.org/category/announcements/" rel="category tag">Announcements</a>				</p>
+				//			</div>
+-->
+		</div>
+
+		
+		<div class="pagination navigation clearfix">
+						<div class="alignleft"><a href="https://www.opencsw.org/page/2/" >&laquo; Older Entries</a></div>
+			<div class="alignright"></div>
+					</div>
+
+		
+		</div>
+	</div>
+
+<div id="sidebar">
+    <ul class="sb-list clearfix">
+
+        
+        <li class="large-sidebar-icon sb-tools">
+            <a href="/get-it/">
+                <div class="alignleft">
+                    <img src="https://www.opencsw.org/wp-content/themes/opencsw/img/download.png" />
+                </div>
+                <div class="large-sidebar-text">
+                    <span>Get Started</span>
+                    Download packages
+                </div>
+            </a>
+        </li>
+
+        <li class="large-sidebar-icon sb-tools">
+            <a href="/get-it/packages/">
+                <div class="alignleft">
+                    <img src="https://www.opencsw.org/wp-content/themes/opencsw/img/pkg-icon.png" />
+                </div>
+                <div class="large-sidebar-text">
+                    <span>Packages</span>
+                    See full software list
+                </div>
+            </a>
+        </li>
+
+        <li class="large-sidebar-icon sb-tools">
+            <a href="/search/">
+                <div class="alignleft">
+                    <img src="https://www.opencsw.org/wp-content/themes/opencsw/img/searchpkg-icon.png" />
+                </div>
+                <div class="large-sidebar-text">
+                    <span>Search</span> packages content
+                </div>
+            </a>
+        </li>
+
+        <li class="large-sidebar-icon sb-tools">
+            <a href="/mantis/">
+                <div class="alignleft">
+                    <img src="https://www.opencsw.org/wp-content/themes/opencsw/img/bug.png" />
+                </div>
+                <div class="large-sidebar-text">
+                    <span>Bug tracker</span>
+                    Access to Mantis
+                </div>
+            </a>
+        </li>
+
+        <li class="large-sidebar-icon sb-tools">
+            <a href="/feeds/">
+                <div class="alignleft">
+                    <img src="https://www.opencsw.org/wp-content/themes/opencsw/img/rss-icon.png" />
+                </div>
+                <div class="large-sidebar-text">
+                    <span>Feeds</span>
+                    Subscribe to RSS feeds
+                </div>
+            </a>
+        </li>
+
+        <li class="large-sidebar-icon sb-tools">
+            <a href="http://wiki.opencsw.org/">
+                <div class="alignleft">
+                    <img src="https://www.opencsw.org/wp-content/themes/opencsw/img/wiki.png" />
+                </div>
+                <div class="large-sidebar-text">
+                    <span>Wiki</span>
+                    Project Wiki
+                </div>
+            </a>
+        </li>
+
+        <li class="large-sidebar-icon sb-tools">
+            <a href="https://lists.opencsw.org/mailman/listinfo/">
+                <div class="alignleft">
+                    <img src="https://www.opencsw.org/wp-content/themes/opencsw/img/email-icon2.png" />
+                </div>
+                <div class="large-sidebar-text">
+                    <span>Mailing lists</span>
+                    Subscribe to lists
+                </div>
+            </a>
+        </li>
+
+        <li class="large-sidebar-icon sb-tools">
+            <a href="/irc-channel">
+                <div class="alignleft">
+                    <img src="https://www.opencsw.org/wp-content/themes/opencsw/img/irc-icon.png" />
+                </div>
+                <div class="large-sidebar-text">
+                    <span>#opencsw</span>
+                    Go to IRC channel on freenode.net
+                </div>
+            </a>
+        </li>
+
+        
+    </ul>
+
+</div> <!-- #sidebar -->
+</div> <!-- #main -->
+
+
+<div id="footer" class="clearfix">
+    <p class="aligncenter">
+        Copyright &copy; 2002-2018 <a href="/">The OpenCSW project.</a><br>
+        <a href="/">OpenCSW</a> and the Cashew logo are trademarks of the <a href="/">OpenCSW foundation</a>.<br>
+        Hosted document have their own copyright notices.<br>
+        <a href="http://validator.w3.org/check/referer">Optimised</a> for <a href="http://www.w3.org/">standards</a>. Hosted by <a href="/">OpenCSW</a>.
+    </p>
+</div>
+
+<script type='text/javascript' src='https://www.opencsw.org/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+
+
+
+</body>
+</html>

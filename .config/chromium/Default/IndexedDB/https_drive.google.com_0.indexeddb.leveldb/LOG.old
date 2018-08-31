@@ -1,0 +1,160 @@
+2018/08/29-15:47:50.338 4768 Reusing MANIFEST /home/eswecha/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/08/29-15:48:28.627 5520 Level-0 table #5: started
+2018/08/29-15:48:29.209 5520 Level-0 table #5: 11766707 bytes OK
+2018/08/29-15:48:29.260 5520 Delete type=0 #3
+2018/08/29-15:48:30.861 5520 Level-0 table #7: started
+2018/08/29-15:48:31.202 5520 Level-0 table #7: 11283580 bytes OK
+2018/08/29-15:48:31.239 5520 Delete type=0 #4
+2018/08/29-15:48:31.245 5520 Compacting 1@1 + 1@2 files
+2018/08/29-15:48:31.852 5520 Generated table #8: 60 keys, 11396135 bytes
+2018/08/29-15:48:31.882 5520 Generated table #9: 8 keys, 3213 bytes
+2018/08/29-15:48:31.882 5520 Compacted 1@1 + 1@2 files => 11399348 bytes
+2018/08/29-15:48:31.923 5520 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/08/29-15:48:31.924 5520 Delete type=2 #7
+2018/08/29-15:48:31.930 5520 Delete type=2 #5
+2018/08/29-15:49:04.845 5520 Level-0 table #11: started
+2018/08/29-15:49:05.231 5520 Level-0 table #11: 11624722 bytes OK
+2018/08/29-15:49:05.268 5520 Delete type=0 #6
+2018/08/29-15:49:05.269 5520 Compacting 1@1 + 2@2 files
+2018/08/29-15:49:06.009 5520 Generated table #12: 60 keys, 11379701 bytes
+2018/08/29-15:49:06.052 5520 Generated table #13: 8 keys, 3213 bytes
+2018/08/29-15:49:06.052 5520 Compacted 1@1 + 2@2 files => 11382914 bytes
+2018/08/29-15:49:06.111 5520 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/08/29-15:49:06.111 5520 Delete type=2 #9
+2018/08/29-15:49:06.111 5520 Delete type=2 #8
+2018/08/29-15:49:06.114 5520 Delete type=2 #11
+2018/08/29-15:49:06.750 5520 Level-0 table #15: started
+2018/08/29-15:49:07.134 5520 Level-0 table #15: 11267147 bytes OK
+2018/08/29-15:49:07.188 5520 Delete type=0 #10
+2018/08/29-15:49:07.190 5520 Compacting 1@1 + 2@2 files
+2018/08/29-15:49:07.959 5520 Generated table #16: 60 keys, 11379701 bytes
+2018/08/29-15:49:07.999 5520 Generated table #17: 8 keys, 3213 bytes
+2018/08/29-15:49:07.999 5520 Compacted 1@1 + 2@2 files => 11382914 bytes
+2018/08/29-15:49:08.033 5520 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/08/29-15:49:08.033 5520 Delete type=2 #15
+2018/08/29-15:49:08.037 5520 Delete type=2 #12
+2018/08/29-15:49:08.040 5520 Delete type=2 #13
+2018/08/29-15:49:09.006 5520 Level-0 table #19: started
+2018/08/29-15:49:09.279 5520 Level-0 table #19: 11289432 bytes OK
+2018/08/29-15:49:09.327 5520 Delete type=0 #14
+2018/08/29-15:49:09.328 5520 Compacting 1@1 + 2@2 files
+2018/08/29-15:49:09.905 5520 Generated table #20: 60 keys, 11401987 bytes
+2018/08/29-15:49:09.936 5520 Generated table #21: 8 keys, 3213 bytes
+2018/08/29-15:49:09.936 5520 Compacted 1@1 + 2@2 files => 11405200 bytes
+2018/08/29-15:49:09.978 5520 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/08/29-15:49:09.979 5520 Delete type=2 #19
+2018/08/29-15:49:09.983 5520 Delete type=2 #17
+2018/08/29-15:49:09.983 5520 Delete type=2 #16
+2018/08/29-15:49:43.925 5520 Level-0 table #23: started
+2018/08/29-15:49:44.209 5520 Level-0 table #23: 11267152 bytes OK
+2018/08/29-15:49:44.248 5520 Delete type=0 #18
+2018/08/29-15:49:44.252 5520 Compacting 1@1 + 2@2 files
+2018/08/29-15:49:44.877 5520 Generated table #24: 60 keys, 11379701 bytes
+2018/08/29-15:49:44.916 5520 Generated table #25: 8 keys, 3213 bytes
+2018/08/29-15:49:44.916 5520 Compacted 1@1 + 2@2 files => 11382914 bytes
+2018/08/29-15:49:44.950 5520 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/08/29-15:49:44.951 5520 Delete type=2 #21
+2018/08/29-15:49:44.951 5520 Delete type=2 #20
+2018/08/29-15:49:44.961 5520 Delete type=2 #23
+2018/08/29-15:50:21.131 5520 Level-0 table #27: started
+2018/08/29-15:50:21.484 5520 Level-0 table #27: 10980223 bytes OK
+2018/08/29-15:50:21.522 5520 Delete type=0 #22
+2018/08/29-15:50:21.524 5520 Compacting 1@1 + 2@2 files
+2018/08/29-15:50:22.182 5520 Generated table #28: 60 keys, 11380075 bytes
+2018/08/29-15:50:22.232 5520 Generated table #29: 8 keys, 3213 bytes
+2018/08/29-15:50:22.232 5520 Compacted 1@1 + 2@2 files => 11383288 bytes
+2018/08/29-15:50:22.265 5520 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/08/29-15:50:22.266 5520 Delete type=2 #27
+2018/08/29-15:50:22.268 5520 Delete type=2 #24
+2018/08/29-15:50:22.271 5520 Delete type=2 #25
+2018/08/29-15:50:23.135 5520 Level-0 table #31: started
+2018/08/29-15:50:23.738 5520 Level-0 table #31: 10774081 bytes OK
+2018/08/29-15:50:23.776 5520 Delete type=0 #26
+2018/08/29-15:50:23.777 5520 Compacting 1@1 + 2@2 files
+2018/08/29-15:50:24.238 5520 Generated table #32: 59 keys, 10887394 bytes
+2018/08/29-15:50:24.985 5520 Generated table #33: 1 keys, 10752231 bytes
+2018/08/29-15:50:25.029 5520 Generated table #34: 8 keys, 3213 bytes
+2018/08/29-15:50:25.029 5520 Compacted 1@1 + 2@2 files => 21642838 bytes
+2018/08/29-15:50:25.105 5520 compacted to: files[ 0 0 3 0 0 0 0 ]
+2018/08/29-15:50:25.105 5520 Delete type=2 #29
+2018/08/29-15:50:25.105 5520 Delete type=2 #28
+2018/08/29-15:50:25.108 5520 Delete type=2 #31
+2018/08/29-15:50:25.111 5520 Level-0 table #36: started
+2018/08/29-15:50:25.662 5520 Level-0 table #36: 11292884 bytes OK
+2018/08/29-15:50:25.699 5520 Delete type=0 #30
+2018/08/29-15:50:26.148 5520 Level-0 table #38: started
+2018/08/29-15:50:26.480 4768 Current memtable full; waiting...
+2018/08/29-15:50:26.484 5520 Level-0 table #38: 10774507 bytes OK
+2018/08/29-15:50:26.516 5520 Delete type=0 #35
+2018/08/29-15:50:26.519 5520 Level-0 table #40: started
+2018/08/29-15:50:26.943 5520 Level-0 table #40: 10752399 bytes OK
+2018/08/29-15:50:26.985 5520 Delete type=0 #37
+2018/08/29-15:51:00.371 5520 Level-0 table #42: started
+2018/08/29-15:51:00.668 5520 Level-0 table #42: 11273136 bytes OK
+2018/08/29-15:51:00.735 5520 Delete type=0 #39
+2018/08/29-15:51:00.740 5520 Compacting 4@0 + 0@1 files
+2018/08/29-15:51:01.302 5520 Generated table #43: 6 keys, 11272658 bytes
+2018/08/29-15:51:01.344 5520 Generated table #44: 4 keys, 647 bytes
+2018/08/29-15:51:01.344 5520 Compacted 4@0 + 0@1 files => 11273305 bytes
+2018/08/29-15:51:01.386 5520 compacted to: files[ 0 2 3 0 0 0 0 ]
+2018/08/29-15:51:01.387 5520 Delete type=2 #40
+2018/08/29-15:51:01.391 5520 Delete type=2 #36
+2018/08/29-15:51:01.396 5520 Delete type=2 #38
+2018/08/29-15:51:01.400 5520 Delete type=2 #42
+2018/08/29-15:51:01.403 5520 Compacting 1@1 + 1@2 files
+2018/08/29-15:51:01.445 5520 Generated table #45: 8 keys, 3213 bytes
+2018/08/29-15:51:01.445 5520 Compacted 1@1 + 1@2 files => 3213 bytes
+2018/08/29-15:51:01.486 5520 compacted to: files[ 0 1 3 0 0 0 0 ]
+2018/08/29-15:51:01.487 5520 Delete type=2 #44
+2018/08/29-15:51:01.487 5520 Delete type=2 #34
+2018/08/29-15:51:01.487 5520 Compacting 1@1 + 2@2 files
+2018/08/29-15:51:02.039 5520 Generated table #46: 60 keys, 11385686 bytes
+2018/08/29-15:51:02.039 5520 Compacted 1@1 + 2@2 files => 11385686 bytes
+2018/08/29-15:51:02.072 5520 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/08/29-15:51:02.072 5520 Delete type=2 #33
+2018/08/29-15:51:02.079 5520 Delete type=2 #43
+2018/08/29-15:51:02.084 5520 Delete type=2 #32
+2018/08/29-15:52:55.017 5520 Level-0 table #48: started
+2018/08/29-15:52:55.325 5520 Level-0 table #48: 11293262 bytes OK
+2018/08/29-15:52:55.502 5520 Delete type=0 #41
+2018/08/29-15:52:55.507 5520 Compacting 1@1 + 2@2 files
+2018/08/29-15:52:56.142 5520 Generated table #49: 60 keys, 11405812 bytes
+2018/08/29-15:52:56.287 5520 Generated table #50: 8 keys, 3213 bytes
+2018/08/29-15:52:56.287 5520 Compacted 1@1 + 2@2 files => 11409025 bytes
+2018/08/29-15:52:56.361 5520 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/08/29-15:52:56.362 5520 Delete type=2 #46
+2018/08/29-15:52:56.367 5520 Delete type=2 #48
+2018/08/29-15:52:56.372 5520 Delete type=2 #45
+2018/08/29-15:53:31.453 5520 Level-0 table #52: started
+2018/08/29-15:53:31.749 5520 Level-0 table #52: 11273090 bytes OK
+2018/08/29-15:53:31.803 5520 Delete type=0 #47
+2018/08/29-15:53:31.805 5520 Compacting 1@1 + 2@2 files
+2018/08/29-15:53:32.470 5520 Generated table #53: 60 keys, 11385638 bytes
+2018/08/29-15:53:32.514 5520 Generated table #54: 8 keys, 3213 bytes
+2018/08/29-15:53:32.515 5520 Compacted 1@1 + 2@2 files => 11388851 bytes
+2018/08/29-15:53:32.548 5520 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/08/29-15:53:32.548 5520 Delete type=2 #50
+2018/08/29-15:53:32.549 5520 Delete type=2 #52
+2018/08/29-15:53:32.554 5520 Delete type=2 #49
+2018/08/29-15:57:55.919 5520 Level-0 table #56: started
+2018/08/29-15:57:56.194 5520 Level-0 table #56: 11295094 bytes OK
+2018/08/29-15:57:56.236 5520 Delete type=0 #51
+2018/08/29-15:57:56.240 5520 Compacting 1@1 + 2@2 files
+2018/08/29-15:57:56.854 5520 Generated table #57: 60 keys, 11407644 bytes
+2018/08/29-15:57:56.887 5520 Generated table #58: 8 keys, 3213 bytes
+2018/08/29-15:57:56.887 5520 Compacted 1@1 + 2@2 files => 11410857 bytes
+2018/08/29-15:57:56.936 5520 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/08/29-15:57:56.937 5520 Delete type=2 #56
+2018/08/29-15:57:56.943 5520 Delete type=2 #53
+2018/08/29-15:57:56.947 5520 Delete type=2 #54
+2018/08/29-15:58:32.184 5520 Level-0 table #60: started
+2018/08/29-15:58:32.454 5520 Level-0 table #60: 11273089 bytes OK
+2018/08/29-15:58:32.504 5520 Delete type=0 #55
+2018/08/29-15:58:32.510 5520 Compacting 1@1 + 2@2 files
+2018/08/29-15:58:33.017 5520 Generated table #61: 60 keys, 11385638 bytes
+2018/08/29-15:58:33.054 5520 Generated table #62: 8 keys, 3213 bytes
+2018/08/29-15:58:33.054 5520 Compacted 1@1 + 2@2 files => 11388851 bytes
+2018/08/29-15:58:33.087 5520 compacted to: files[ 0 0 2 0 0 0 0 ]
+2018/08/29-15:58:33.088 5520 Delete type=2 #57
+2018/08/29-15:58:33.095 5520 Delete type=2 #60
+2018/08/29-15:58:33.100 5520 Delete type=2 #58
